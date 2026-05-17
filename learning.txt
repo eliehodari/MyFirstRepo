@@ -1,0 +1,1 @@
+In this course, I have learned the fundamentals of Git and GitHub, including how to create and manage repositories, work with branches, make commits, and collaborate with others through pull requests and forks. These skills are essential for modern project collaboration.
