@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is eliehodari. I am passionate about learning and growing in my field. I enjoy exploring new technologies and applying my knowledge to real-world challenges.
+
+I am currently learning Git and GitHub to improve my version control skills and collaborate more effectively on projects.
